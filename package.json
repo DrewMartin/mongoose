@@ -1,7 +1,7 @@
 {
     "name": "mongoose"
   , "description": "Elegant MongoDB object modeling for Node.js"
-  , "version": "3.6.11"
+  , "version": "3.6.11-benbria"
   , "author": "Guillermo Rauch <guillermo@learnboost.com>"
   , "keywords": ["mongodb", "document", "model", "schema", "database", "odm", "data", "datastore", "query", "nosql", "orm", "db"]
   , "dependencies": {
@@ -10,7 +10,7 @@
       , "ms": "0.1.0"
       , "sliced": "0.0.3"
       , "muri": "0.3.1"
-      , "mpromise": "0.2.1"
+      , "mpromise": "git://github.com/DrewMartin/mpromise.git#0.2.1"
       , "mpath": "0.1.1"
       , "regexp-clone": "0.0.1"
     }
